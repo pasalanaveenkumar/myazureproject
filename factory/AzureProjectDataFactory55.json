@@ -1,0 +1,9 @@
+{
+	"name": "AzureProjectDataFactory55",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93d321fe-2bd1-40f3-a917-f5480eda28a1",
+		"tenantId": "3bf8afb3-7303-4161-bed8-86fe339290c3"
+	}
+}
